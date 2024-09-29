@@ -1,0 +1,8 @@
+.about_section .about_part{
+    margin: 0 auto;
+}
+
+.about_section .about_part img{
+    height: 40%;
+    width: 40%;
+}

@@ -1,0 +1,10 @@
+.popularDish_title{
+    padding: 20px;
+}
+.popularDish_title h1{
+    background-color: #ce9552;
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}

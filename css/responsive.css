@@ -1,0 +1,78 @@
+@media ( max-width:426px ) {
+    .banner_section .banner_part .parts .bannerPart_content p{
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .banner_section .banner_part .parts .bannerPart_content h1{
+        font-size: 70px;
+    }
+    .about_section .about-image_part{
+        height: 70%;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .about_section .about-content_part{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .deliciousFood_section .deliciousFood .deliciousFood_part{
+        text-align: center;
+        margin: 10px auto;
+        width: 60%;
+    }
+    .gallery_section .gallery_part .galleryPhotos{
+        margin: 30px auto;
+    }
+    .footer_section .footer_part .footer_parts{
+        border: 1px solid #fff;
+        padding: 20px;
+    }
+    .delivery_part .delivery_part_map{
+        margin-top: 20px;
+    }
+}
+
+@media ( min-width:427px ) and ( max-width :769px ) {
+    .banner_section .banner_part .parts .bannerPart_content p{
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .banner_section .banner_part .parts .bannerPart_content h1{
+        font-size: 70px;
+    }
+    .about_section .about-image_part{
+        height: 70%;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .about_section .about-content_part{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .deliciousFood_section .deliciousFood .deliciousFood_part{
+        text-align: center;
+        margin: 30px auto;
+        width: 60%;
+    }
+    .gallery_section .gallery_part .galleryPhotos{
+        margin: 30px auto;
+    }
+    .footer_section .footer_part .footer_parts{
+        border: 1px solid #fff;
+        padding: 20px;
+    }
+    .delivery_part .delivery_part_map{
+        margin-top: 20px;
+    }
+}
+
+@media ( min-width:770px ) and ( max-width :1025px ) {
+    .deliciousFood_section .deliciousFood .deliciousFood_part{
+        text-align: center;
+        margin: 30px auto;
+        width: 40%;
+    }
+    .gallery_section .gallery_part .galleryPhotos{
+        margin: 30px auto;
+    }
+}
